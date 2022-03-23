@@ -1,0 +1,62 @@
+
+psd to html / psd to bootstrap
+html,css,bootstrap,js,jquery
+
+-----------------font-family------------------------
+font-family: 'PT Sans', sans-serif;
+
+
+--------------------color-----------------
+black-----#010101
+ash-------#555555
+nevy-blue--#313841
+yellow-----#fcdb00
+ash-gray----#898989
+
+===============================
+xxl    1440 ----ending time in website----1600 1800 2100 
+xl     1200
+lg     1024
+
+md     768
+
+sm     576
+col    320
+
+
+
+header------------------------- 
+
+        xxl/xl/lg          md          sm/col
+menu        22px            22            20
+
+slider---------------------
+        xxl/xl/lg          md          sm/col
+h1             32           32          25
+h2              20            20        18
+p               16             16        16/15
+icon            42           42              35
+pb      100                  100           60
+
+
+padding------------------
+        xxl/xl/lg               md          sm/col
+        100                     80              50-70
+
+        xxl/xl/lg          md          sm/col
+header      20              20          18
+
+feature---------------
+        xxl/xl/lg               md          sm/col
+
+PT      100                     
+pb      120
+
+mt      70                      50              30
+
+h1      32                      32              25
+p       20                      20              17
+
+icon    50                      50              35
+h2      22                      22              20/18
+p       16                      16              16
